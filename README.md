@@ -14,8 +14,7 @@
 ### 　　　　　　
 
 ## 🛠 Tech stack
-- 자바/jspServlet/mvc2/자바스크립트/J쿼리/api/AJAX/MySQL/CSS/HTML/부트스트랩/아파치톰캣9.0
-<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/-JSP/Servlet-6F4159?style=flat-plastic&logo=JSP&logoColor=white"/>   <img src="https://img.shields.io/badge/-MVC2-1B432F?style=flat-plastic&logo=MVC&logoColor=white"/>   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=white"/>   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-plastic&logo=jQuery&logoColor=white"/>   <img src="https://img.shields.io/badge/-API-0769AD?style=flat-plastic&logo=API&logoColor=white"/>   <img src="https://img.shields.io/badge/-AJAX-F575C6?style=flat-plastic&logo=AJAX&logoColor=white"/>   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-plastic&logo=MySQL&logoColor=white"/>   <img src="https://img.shields.io/badge/-CSS-F5A06E?style=flat-plastic&logo=CSS3&logoColor=white"/>   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-plastic&logo=HTML5&logoColor=white"/>   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=Bootstrap&logoColor=white"/>   <img src="https://img.shields.io/badge/-ApachetTomcat9.0-D22128?style=flat-plastic&logo=Apache&logoColor=white"/>   
+<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/-JSP/Servlet-6F4159?style=flat-plastic&logo=JSP&logoColor=white"/>   <img src="https://img.shields.io/badge/-MVC2-1B432F?style=flat-plastic&logo=MVC&logoColor=white"/>   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=white"/>   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-plastic&logo=jQuery&logoColor=white"/>   <img src="https://img.shields.io/badge/-API-F575C6?style=flat-plastic&logo=API&logoColor=white"/>   <img src="https://img.shields.io/badge/-AJAX-37D1CB?style=flat-plastic&logo=AJAX&logoColor=white"/>   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-plastic&logo=MySQL&logoColor=white"/>   <img src="https://img.shields.io/badge/-CSS-F59C54?style=flat-plastic&logo=CSS3&logoColor=white"/>   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-plastic&logo=HTML5&logoColor=white"/>   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=Bootstrap&logoColor=white"/>   <img src="https://img.shields.io/badge/-ApachetTomcat9.0-D22128?style=flat-plastic&logo=Apache&logoColor=white"/>   
 
 
 
@@ -23,8 +22,10 @@
 
 
 ### Cowork&Development tools used : 
-- 이클립스/카카오오븐/erd/구글시트/슬랙/깃/깃허브/웨일/구글미트
-<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-plastic&logo=Eclipse IDE&logoColor=white"/>   
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-plastic&logo=Eclipse IDE&logoColor=white"/>   <img src="https://img.shields.io/badge/KakaoOven-FFCD00?style=flat-plastic&logo=Kakao&logoColor=white"/>   <img src="https://img.shields.io/badge/ERDcloud-937BF2?style=flat-plastic&logo=ERDcloud&logoColor=white"/>   <img src="https://img.shields.io/badge/Git-F05032?style=flat-plastic&logo=Git&logoColor=white"/>   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-plastic&logo=GitHub&logoColor=white"/>   <img src="https://img.shields.io/badge/Google Sheets-34A853?style=flat-plastic&logo=Google Sheets&logoColor=white"/>   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-plastic&logo=Slack&logoColor=white"/>   <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat-plastic&logo=Google Meet&logoColor=white"/>   
+
+
+
 
 
 
