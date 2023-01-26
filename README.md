@@ -34,10 +34,10 @@
 ### 　　　
 
 ## 📅 개발 일정
-### 1. 일정관리
+### 1. 일정관리 
 ![일정관리](https://user-images.githubusercontent.com/118797686/214765218-b669cdd8-4a71-4585-9124-58cf945ba445.png)
 ### 　
-### 2. 개발일정
+### 2. 개발일정 
 ![개발일정](https://user-images.githubusercontent.com/118797686/214765214-465ac003-eeb0-40bc-bbd0-548cdf75074d.png)
 
 ### 　　　
@@ -54,19 +54,19 @@
 ### 　　　
 
 ## 💻 협업 도구　
-### 1. 슬랙/카카오오븐
+> ### 1. 슬랙/카카오오븐
 ![슬랙,카카오오븐](https://user-images.githubusercontent.com/118797686/214765131-159d896a-a0e1-4647-ad1f-aa9586d6ff0e.png)
 ### 　
-### 2. 깃허브/ERD
+> ### 2. 깃허브/ERD
 ![깃허브,ERD](https://user-images.githubusercontent.com/118797686/214765144-84bb2465-d502-4c4f-b855-5e84df891500.png)
 ### 　
-### 3. 유스케이스
+> ### 3. 유스케이스
 ![유스케이스](https://user-images.githubusercontent.com/118797686/214765158-90a619ea-c07b-4333-b29d-99a9ed8ba32c.png)
 ### 　
-### 4. 요구사항정의서
+> ### 4. 요구사항정의서 [바로가기](https://docs.google.com/spreadsheets/d/1QtAqQH0A_m7-ze3XhSkfsWuaNlpo1l9SFScPLc-R-X4/edit?pli=1#gid=554889087)
 ![요구사항정의서](https://user-images.githubusercontent.com/118797686/214765172-159d0fd2-7227-4964-9220-876cec2e16d0.png)
 ### 　
-### 5. 구조명세서
+> ### 5. 구조명세서 [바로가기](https://docs.google.com/spreadsheets/d/1QtAqQH0A_m7-ze3XhSkfsWuaNlpo1l9SFScPLc-R-X4/edit?pli=1#gid=447372283)
 ![구조명세서](https://user-images.githubusercontent.com/118797686/214765187-cc323510-b687-4344-9a76-32103dc16516.png)
 
 ### 　　　
@@ -76,7 +76,7 @@
 
 ## 👩‍💻 주요 기능 
 - 여기에 주소나 사진 넣기
-- 여기에 주소나 사진 넣기
+- 인용 여기에 주소나 사진 넣기
 - 여기에 주소나 사진 넣기
 
 ### 　　
