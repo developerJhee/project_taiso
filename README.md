@@ -15,7 +15,7 @@
 ### 　　　
 
 ## 🛠 Tech stack
-<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/-JSP/Servlet-6F4159?style=flat-plastic&logo=JSP&logoColor=white"/>   <img src="https://img.shields.io/badge/-MVC2-1B432F?style=flat-plastic&logo=MVC&logoColor=white"/>   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=white"/>   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-plastic&logo=jQuery&logoColor=white"/>   <img src="https://img.shields.io/badge/-API-F575C6?style=flat-plastic&logo=API&logoColor=white"/>   <img src="https://img.shields.io/badge/-AJAX-37D1CB?style=flat-plastic&logo=AJAX&logoColor=white"/>   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-plastic&logo=MySQL&logoColor=white"/>   <img src="https://img.shields.io/badge/-CSS-F59C54?style=flat-plastic&logo=CSS3&logoColor=white"/>   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-plastic&logo=HTML5&logoColor=white"/>   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=Bootstrap&logoColor=white"/>   <img src="https://img.shields.io/badge/-ApachetTomcat9.0-D22128?style=flat-plastic&logo=Apache&logoColor=white"/>   
+<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>   <img src="https://img.shields.io/badge/-JSP/Servlet-6F4159?style=flat-plastic&logo=JSP&logoColor=white"/>   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-plastic&logo=JavaScript&logoColor=white"/>   <img src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-plastic&logo=jQuery&logoColor=white"/>   <img src="https://img.shields.io/badge/-API-F575C6?style=flat-plastic&logo=API&logoColor=white"/>   <img src="https://img.shields.io/badge/-AJAX-37D1CB?style=flat-plastic&logo=AJAX&logoColor=white"/>   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-plastic&logo=MySQL&logoColor=white"/>   <img src="https://img.shields.io/badge/-CSS-F59C54?style=flat-plastic&logo=CSS3&logoColor=white"/>   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-plastic&logo=HTML5&logoColor=white"/>   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-plastic&logo=Bootstrap&logoColor=white"/>   <img src="https://img.shields.io/badge/-ApachetTomcat9.0-D22128?style=flat-plastic&logo=Apache&logoColor=white"/>   
 
 
 
@@ -72,20 +72,18 @@
 ### 　　　
 <hr>
 
-### 　　　　
+### 　　　　　
 
-## 👩‍💻 주요 기능 
-- 여기에 주소나 사진 넣기
-- 인용 여기에 주소나 사진 넣기
-- 여기에 주소나 사진 넣기
-
-### 　　
-### 　　
-
-## 💡 기능 구현
-- 여기에 주소나 사진 넣기
-- 여기에 주소나 사진 넣기
-- 여기에 주소나 사진 넣기
+## 💡 기능 요약
+<details>
+<summary>회원</summary>
+나의 프로젝트 목록, 주문배송 관리 기능
+</details>
+<details>
+<summary>관리자</summary>
+나의 프로젝트 목록, 주문배송 관리 기능
+</details>
+<details>
 
 ### 　　
 
