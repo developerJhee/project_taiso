@@ -77,13 +77,32 @@
 ## 💡 기능 요약
 <details>
 <summary>회원</summary>
-나의 프로젝트 목록, 주문배송 관리 기능
+- 회원가입 및 로그인 <br>
+- 회원정보수정 및 탈퇴 <br>
+- 마이페이지 : 공지사항/FAQ/문의하기
 </details>
+
+<details>
+<summary>상품</summary>
+- 차량상세보기 <br>
+- 리뷰 CRUD <br>
+</details>
+
+<details>
+<summary>예약</summary>
+- 메인페이지(대여일/반납일/시간/지점 선택) <br>
+- 차량선택 <br>
+- 예약하기🙋 <br>
+- 결제하기🙋
+</details>
+
 <details>
 <summary>관리자</summary>
-나의 프로젝트 목록, 주문배송 관리 기능
+- 회원관리 : 회원조회<br>
+- 차량관리 : 차량목록 / 상품등록CURD / 리뷰목록<br>
+- 예약관리🙋 : 예약조회 / 예약상세조회<br>
+- 고객센터 : 공지사항&FAQ CRUD
 </details>
-<details>
 
 ### 　　
 
